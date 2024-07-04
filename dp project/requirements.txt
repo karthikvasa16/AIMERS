@@ -1,4 +1,4 @@
 streamlit
 pytube
-moviepy
+moviepy.editor
 os
